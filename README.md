@@ -1,6 +1,6 @@
 # ELEC 3 - Node.js Programming Activities
 
-*Name:* Aaron Daniel Legayo  
+*Name:* James Patrick Cabaluna
 *Section:* IV-BSIT (add your section letter)  
 *Course:* ELEC 3 - Node.js Programming
 
@@ -29,13 +29,18 @@ node index.js list
 
 ## Screenshots
 
-### N1 - Project Setup and Package Management
-![N1 Output](SET1\n1-setup\screenshots\npm_output.png)
+## Screenshots
 
-![N1 Output](SET1\n1-setup\screenshots\versions.png)
+### N1 - Project Setup and Package Management
+
+![N1 Output](set1/n1-setup/screenshots/npm_output.png)
+
+![N1 Versions](set1/n1-setup/screenshots/versions.png)
 
 ### N2 - Modular Calculator
-![N2 Output](SET1\n2-calculator\screenshots\mathematical_operations.png)
+
+![N2 Output](set1/n2-calculator/screenshots/mathematical_operations.png)
 
 ### N3 - File Manager
-![N3 Output](SET1\n3-file-manager\screenshots\n3_outputs.png)
+
+![N3 Output](set1/n3-file-manager/screenshots/n3_outputs.png)
