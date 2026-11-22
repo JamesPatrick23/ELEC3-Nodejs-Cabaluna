@@ -1,0 +1,24 @@
+# ELEC 3 – Java Programming
+
+
+# N1 - Project Setup and Package Management
+**Student Name:** James Patrick Cabaluna
+**Section:** IV-BSIT-C 
+**Course:** ELEC 3 - Node.js
+
+
+1. **name** – The name of the project or application.
+2. **version** – The current version of the project.
+3. **description** – A short explanation of what the project does.
+4. **main** – The main entry point or starting file of the application.
+5. **scripts** – Contains commands used to run tasks, such as `npm start`.
+6. **dependencies** – Packages needed for the application to work.
+7. **devDependencies** – Packages used during development, testing, or debugging.
+
+### 2. What is the node_modules folder?
+
+The `node_modules` folder contains the packages and libraries installed in a Node.js project. These packages provide additional features needed by the application.
+
+### 3. Why is node_modules not included when submitting or sharing a project?
+
+The `node_modules` folder is not included because it can be very large and contains packages that can be installed again using `npm install`. Instead, we share the `package.json` and package-lock.json files so others can install the required packages on their computers.
