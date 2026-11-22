@@ -1,11 +1,41 @@
-# ELEC 3 – Java Programming
+# ELEC 3 - Node.js Programming Activities
 
-**Student Name:** James Patrick Cabaluna
+*Name:* Aaron Daniel Legayo  
+*Section:* IV-BSIT (add your section letter)  
+*Course:* ELEC 3 - Node.js Programming
 
-**Section:** IV-BSIT-C 
+## Set 1 Activities
 
-**Course:** ELEC 3 – Java Programming  
+| Activity | Description | Folder |
+|---|---|---|
+| N1 - Project Setup and Package Management | Initializes a Node.js project and manages npm packages. | [N1](set1/n1-setup/) |
+| N2 - Modular Calculator | Performs calculations using custom modules and command-line arguments. | [N2](set1/n2-calculator/) |
+| N3 - File Manager | Creates, reads, updates, deletes, and lists text files using fs and path. | [N3](set1/n3-file-manager/) |
 
-**Set:** Set 1  
+## How to Run
 
-**Academic Year:** 2026
+### N1
+cd set1/n1-setup
+npm install
+npm start
+
+### N2
+cd set1/n2-calculator
+node index.js add 10 5
+
+### N3
+cd set1/n3-file-manager
+node index.js list
+
+## Screenshots
+
+### N1 - Project Setup and Package Management
+![N1 Output](SET1\n1-setup\screenshots\npm_output.png)
+
+![N1 Output](SET1\n1-setup\screenshots\versions.png)
+
+### N2 - Modular Calculator
+![N2 Output](SET1\n2-calculator\screenshots\mathematical_operations.png)
+
+### N3 - File Manager
+![N3 Output](SET1\n3-file-manager\screenshots\n3_outputs.png)
