@@ -1,8 +1,8 @@
 # ELEC 3 - Node.js Programming Activities
 
-*Name:* James Patrick Cabaluna
-*Section:* IV-BSIT (add your section letter)  
-*Course:* ELEC 3 - Node.js Programming
+Name: James Patrick Cabaluna
+Section: IV-BSIT-C
+Course: ELEC 3 - Node.js Programming
 
 ## Set 1 Activities
 
