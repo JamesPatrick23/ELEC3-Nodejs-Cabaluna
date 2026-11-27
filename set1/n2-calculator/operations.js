@@ -1,5 +1,5 @@
 // Name: James Patrick Cabaluna 
-// Section: IV-BSIT-c
+// Section: IV-BSIT-C
 // Activity: N2 - Modular Calculator
 
 function add(a, b) {

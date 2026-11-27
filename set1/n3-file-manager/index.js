@@ -1,5 +1,5 @@
 // Name: Jamaes Patrick Cabaluna
-// Section: IV-BSIT (add your section letter)
+// Section: IV-BSIT-C
 // Activity: N3 - File Manager
 
 const fs = require("fs");
